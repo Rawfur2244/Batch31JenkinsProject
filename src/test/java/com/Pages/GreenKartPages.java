@@ -29,7 +29,7 @@ public class GreenKartPages {
 	}
 
 	public void setUsername(WebElement username) {
-		NewToursPages.username = username;
+//		NewToursPages.username = username;
 
 	}
 
@@ -38,7 +38,7 @@ public class GreenKartPages {
 	}
 
 	public void setPassword(WebElement password) {
-		NewToursPages.password = password;
+//		NewToursPages.password = password;
 
 	}
 	public WebElement getSubmitButton() {
@@ -46,7 +46,7 @@ public class GreenKartPages {
 	}
 
 	public static void setSubmitButton(WebElement submitButton) {
-		NewToursPages.submitButton = submitButton;
+//		NewToursPages.submitButton = submitButton;
 	}
 
 	public WebElement getVerification() {
@@ -54,7 +54,7 @@ public class GreenKartPages {
 	}
 
 	public void setVerification(WebElement verification) {
-		NewToursPages.verification = verification;
+//		NewToursPages.verification = verification;
 	}
 
 }
